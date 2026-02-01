@@ -1,0 +1,26 @@
+{
+  "area": 9525067.0,
+  "capital": "Washington, D.C.",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    }
+  ],
+  "flag": "https://flagcdn.com/w320/us.png",
+  "immigration_rules": "No free public API for immigration rules. Please consult the official government website for up-to-date immigration requirements.",
+  "iso_codes": {
+    "alpha2": "US",
+    "alpha3": "USA",
+    "numeric": "840"
+  },
+  "languages": [
+    "English"
+  ],
+  "name": "United States",
+  "official_name": "United States of America",
+  "population": 340110988,
+  "region": "Americas",
+  "subregion": "North America"
+}

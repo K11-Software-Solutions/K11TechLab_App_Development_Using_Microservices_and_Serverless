@@ -1,0 +1,7 @@
+[
+  {"name": "Python", "description": "Write a script to automate file backups."},
+  {"name": "Docker", "description": "Containerize a Flask app and run it locally."},
+  {"name": "GraphQL", "description": "Create a GraphQL API for querying city data."},
+  {"name": "CI/CD", "description": "Set up a GitHub Actions workflow for automated testing."},
+  {"name": "Kubernetes", "description": "Deploy a multi-container app using Kubernetes manifests."}
+]

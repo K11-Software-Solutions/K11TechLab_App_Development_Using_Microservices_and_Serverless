@@ -1,0 +1,28 @@
+{
+  "area": 3287263.0,
+  "capital": "New Delhi",
+  "currencies": [
+    {
+      "code": "INR",
+      "name": "Indian rupee",
+      "symbol": "₹"
+    }
+  ],
+  "flag": "https://flagcdn.com/w320/in.png",
+  "immigration_rules": "No free public API for immigration rules. Please consult the official government website for up-to-date immigration requirements.",
+  "iso_codes": {
+    "alpha2": "IN",
+    "alpha3": "IND",
+    "numeric": "356"
+  },
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil"
+  ],
+  "name": "India",
+  "official_name": "Republic of India",
+  "population": 1417492000,
+  "region": "Asia",
+  "subregion": "Southern Asia"
+}

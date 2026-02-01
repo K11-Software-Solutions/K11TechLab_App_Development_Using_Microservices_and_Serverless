@@ -1,0 +1,12 @@
+{
+  "name": "graphql-citystate-microservice",
+  "version": "1.0.0",
+  "main": "citystate_server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.22.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.12.0",
+    "node-fetch": "^2.7.0"
+  }
+}

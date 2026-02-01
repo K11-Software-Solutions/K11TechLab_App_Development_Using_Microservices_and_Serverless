@@ -1,0 +1,29 @@
+{
+  "area": 41284.0,
+  "capital": "Bern",
+  "currencies": [
+    {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr."
+    }
+  ],
+  "flag": "https://flagcdn.com/w320/ch.png",
+  "immigration_rules": "No free public API for immigration rules. Please consult the official government website for up-to-date immigration requirements.",
+  "iso_codes": {
+    "alpha2": "CH",
+    "alpha3": "CHE",
+    "numeric": "756"
+  },
+  "languages": [
+    "French",
+    "Swiss German",
+    "Italian",
+    "Romansh"
+  ],
+  "name": "Switzerland",
+  "official_name": "Swiss Confederation",
+  "population": 9082848,
+  "region": "Europe",
+  "subregion": "Western Europe"
+}

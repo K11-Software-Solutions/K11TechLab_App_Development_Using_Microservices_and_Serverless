@@ -1,0 +1,21 @@
+{
+  "data": {
+    "cities": [
+      {
+        "name": "New York",
+        "state": "NY",
+        "population": 8419000
+      },
+      {
+        "name": "Los Angeles",
+        "state": "CA",
+        "population": 3980000
+      },
+      {
+        "name": "Chicago",
+        "state": "IL",
+        "population": 2716000
+      }
+    ]
+  }
+}
