@@ -1,0 +1,10 @@
+[
+  "test_crud_api_pytest.py::test_add_product",
+  "test_crud_api_pytest.py::test_add_product_param[product0]",
+  "test_crud_api_pytest.py::test_add_product_param[product1]",
+  "test_crud_api_pytest.py::test_add_product_param[product2]",
+  "test_crud_api_pytest.py::test_delete_product",
+  "test_crud_api_pytest.py::test_get_nonexistent_product",
+  "test_crud_api_pytest.py::test_get_product",
+  "test_crud_api_pytest.py::test_get_products"
+]
